@@ -2,9 +2,9 @@
 # Multi-Year Leadership Competency Analysis
 
 
-::: {style="width: 80%; margin-left: 20%; text-align: left;"}
+
 “Engineering leadership consists of capabilities and values that transform technical people from individual contributors into those who can lead teams to deliver a complex multi-disciplinary product” © Gordon-MIT Engineering Leadership Program.
-:::
+
 
 **Cohorts Analyzed:** Civil Engineering students (mostly juniors) from Spring 2023 to present.
 
